@@ -1,16 +1,19 @@
 # Optimizing Performance in Operating Systems
 
 ## Overview
-This project delves into the intricacies of operating systems with a particular focus on performance optimization. It aims to provide a comprehensive understanding of how operating system performance can be enhanced through various techniques and strategies.
+This repository focuses on the study and application of performance optimization techniques within operating systems. It includes practical implementations and a detailed report outlining the strategies explored, their theoretical basis, results obtained, and insights garnered.
 
 ## Project Contents
-- `Optimizing Performance`: A directory containing materials, code, and documentation on specific optimization techniques and their applications within operating systems.
+- `Code`: Contains source code examples demonstrating various optimization techniques applied within an operating system context. These examples serve as practical illustrations of how theoretical concepts can be implemented to enhance system performance.
+- `OS Project Report - pr2370.pdf`: A comprehensive report detailing the project's objectives, methodologies, findings, and conclusions. This document offers in-depth insights into the optimization strategies studied and their impact on operating system performance.
 
 ## Getting Started
-This section will guide you through setting up the project and exploring the contents. (Note: This would be further elaborated based on the specific contents and requirements of the project.)
+To explore this project:
+1. Navigate to the `Code` directory to review the source code examples. Additional documentation within the directory will guide you through running and understanding the code.
+2. Read the `OS Project Report - pr2370.pdf` for a thorough understanding of the optimization techniques explored, the rationale behind them, and the outcomes of their application.
 
 ## Contributing
-Contributions to this project are welcome. Whether you're looking to add new optimization techniques, improve existing documentation, or share your own findings, your input is valuable.
+We welcome contributions from students, educators, researchers, and practitioners interested in operating system performance optimization. Whether you're adding new examples, enhancing the documentation, or providing feedback on the project report, your input is invaluable.
 
 ## License
 
